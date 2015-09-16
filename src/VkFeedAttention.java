@@ -65,7 +65,7 @@ public class VkFeedAttention {
     private static void writeData(long time, int onlineFriends, int lastMinuteNews, PrintWriter writer) {
         String data = time + ", " + onlineFriends + ", " +
                 lastMinuteNews + ", " + sdf.format(new Date(System.currentTimeMillis())) + "\n";
-        File file = new File(".//out//" + new Long(RUN_TIME) + ".txt");
+        File file = new File(".//data//" + new Long(RUN_TIME) + ".txt");
 
         try (FileOutputStream fop = new FileOutputStream(file, true)) {
             if (!file.exists()) {

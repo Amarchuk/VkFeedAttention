@@ -31,7 +31,7 @@ if __name__ == "__main__":
     date, online, news = [], [], []
     days = {}
 
-    datadir = '..\\out\\'
+    datadir = '..\\data\\'
 
     for filename in os.listdir(datadir):
         if os.path.isfile(datadir + filename):
