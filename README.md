@@ -1,6 +1,6 @@
 # Vk.com Naive Feed attention maximization
 
-**About:** This is a one-day project inspired by [post on Habrahabr](http://habrahabr.ru/post/183546/). The goal of work is to understand when better to post on vk.com my articles in terms of getting atteintion from my frineds. In other words, 'When to post?'
+**About:** This is a one-day project inspired by [post on Habrahabr](http://habrahabr.ru/post/183546/). The goal of work is to understand when better to post on vk.com my articles in terms of getting attention from my friends. In other words, 'When to post?'
 
 **New tech background**: set up and try to work with [Vk API](https://vk.com/dev/api_requests).
 
